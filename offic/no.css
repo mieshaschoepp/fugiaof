@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  width: 30%;
+  background-color: #ccc;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
